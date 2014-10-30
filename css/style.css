@@ -233,7 +233,6 @@ a.social-btn:hover { color: #bd9213 }
 #tooplate-menu ul li a {
 	display: block;
 	height: 35px;
-	padding: 30px 0 0 0;
 	font-size: 14px;
 	color: #bd9213;
 	text-align: center;
@@ -247,6 +246,7 @@ a.social-btn:hover { color: #bd9213 }
 	#tooplate-menu ul li a {
 		float: left;
 		width: 125px;
+		padding: 30px 0 0 0;
 	}
 }
 #tooplate-menu ul li a:hover, #tooplate-menu ul .current {
